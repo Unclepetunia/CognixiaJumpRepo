@@ -1,2 +1,0 @@
-# CognixiaJumpRepo
-class repo
